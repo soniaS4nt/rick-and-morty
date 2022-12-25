@@ -9,6 +9,12 @@ const Home: React.FC = () => {
       <main>
         <Characters />
       </main>
+      <footer>
+        <p>Developed with 🧡 by</p>
+        <a href="https://github.com/soniaS4nt/" target="_blank">
+          <p>Sonia Chaparro</p>
+        </a>
+      </footer>
     </>
   );
 };
